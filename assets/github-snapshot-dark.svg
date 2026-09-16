@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title">
+  <title id="title">GitHub snapshot for tootony0824</title>
+  <defs><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="208" rx="24" fill="#0F172A" stroke="#312E81" stroke-width="2"/>
+  <rect x="0" y="0" width="10" height="210" rx="5" fill="url(#line)"/>
+  <text x="58" y="64" font-family="ui-monospace, monospace" font-size="16" font-weight="700" letter-spacing="2" fill="#A78BFA">TOOTONY0824 / BUILD SNAPSHOT</text>
+  <g font-family="Inter, ui-sans-serif, system-ui, sans-serif" text-anchor="middle">
+    <text x="220" y="135" font-size="42" font-weight="800" fill="#F8FAFC">13</text><text x="220" y="169" font-size="14" font-weight="700" letter-spacing="2" fill="#94A3B8">PUBLIC REPOS</text>
+    <text x="600" y="135" font-size="31" font-weight="800" fill="#F8FAFC">TYPESCRIPT</text><text x="600" y="169" font-size="14" font-weight="700" letter-spacing="2" fill="#94A3B8">CORE STACK</text>
+    <text x="980" y="135" font-size="31" font-weight="800" fill="#F8FAFC">PYTHON</text><text x="980" y="169" font-size="14" font-weight="700" letter-spacing="2" fill="#94A3B8">AI &amp; DATA</text>
+  </g>
+  <path d="M410 95v82M790 95v82" stroke="#334155"/>
+</svg>

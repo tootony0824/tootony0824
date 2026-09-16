@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title">
+  <title id="title">AI major building practical products with models, code and product thinking</title>
+  <rect x="1" y="1" width="1198" height="148" rx="22" fill="#0F172A" stroke="#312E81" stroke-width="2"/>
+  <text x="60" y="59" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700" letter-spacing="2" fill="#60A5FA">ABOUT / 关于我</text>
+  <text x="60" y="103" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="25" font-weight="650" fill="#F1F5F9">AI major building practical products with models, code, and product thinking.</text>
+  <circle cx="1085" cy="75" r="39" fill="#2E1065"/><text x="1085" y="84" text-anchor="middle" font-family="ui-monospace, monospace" font-size="25" font-weight="800" fill="#C4B5FD">AI</text>
+</svg>
